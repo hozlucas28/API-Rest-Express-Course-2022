@@ -1,24 +1,31 @@
 {
-  "name": "api-rest-express-course-2022",
-  "version": "1.0.0",
-  "description": "Repository of API Rest with Express course of Udemy platform.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hozlucas28/API-Rest-Express-Course-2022.git"
-  },
-  "keywords": [],
-  "author": "Lucas Hoz",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/hozlucas28/API-Rest-Express-Course-2022/issues"
-  },
-  "homepage": "https://github.com/hozlucas28/API-Rest-Express-Course-2022#readme",
-  "devDependencies": {
-    "express": "^4.18.1",
-    "mongoose": "^6.6.5"
-  }
+	"name": "api-rest-express-course-2022",
+	"version": "1.0.0",
+	"description": "Repository of API Rest with Express course of Udemy platform.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"prepare": "husky install"
+	},
+	"lint-staged": {
+		"**/*": "prettier --write --ignore-unknown"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hozlucas28/API-Rest-Express-Course-2022.git"
+	},
+	"keywords": [],
+	"author": "Lucas Hoz",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/hozlucas28/API-Rest-Express-Course-2022/issues"
+	},
+	"homepage": "https://github.com/hozlucas28/API-Rest-Express-Course-2022#readme",
+	"devDependencies": {
+		"express": "^4.18.1",
+		"husky": "^8.0.2",
+		"lint-staged": "^13.1.0",
+		"mongoose": "^6.6.5",
+		"prettier": "2.8.1"
+	}
 }
