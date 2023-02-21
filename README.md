@@ -66,6 +66,9 @@
         <li>
             <a href="https://github.com/hozlucas28/Go-Course-2023" target="_blank">Repository of Go course</a>
         </li>
+        <li>
+            <a href="https://github.com/hozlucas28/Go-Module-Practice-2023" target="_blank">Repository of Go module practice</a>
+        </li>
     </ul>
 </p>
 
