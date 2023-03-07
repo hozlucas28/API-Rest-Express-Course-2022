@@ -75,6 +75,9 @@
         <li>
             <a href="https://github.com/hozlucas28/Java-Course-2023" target="_blank">Repository of Java course</a>
         </li>
+        <li>
+            <a href="https://github.com/hozlucas28/Java-Movies-Practice-2023" target="_blank">Repository of Java movies practice</a>
+        </li>
     </ul>
 </p>
 
