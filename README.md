@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/88015479/210163156-9da80259-2784-4936-93ed-b28e46a66918.png" width="550">
+    <img src="./.github/nodejs-express-logo.png" width="550">
 </p>
 
 <h2>
